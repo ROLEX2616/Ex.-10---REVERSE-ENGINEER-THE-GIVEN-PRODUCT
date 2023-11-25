@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/ROLEX2616/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149988469/d8f6ded4-5fc7-432d-86e2-42ed7e11bcbd)
+
 
 ### Output:
+![image](https://github.com/ROLEX2616/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149988469/3bdcc75e-22c1-498d-ad18-ba6024411b16)
 
 
-### Name:
-### Register Number:
+
+### Name:Kavinraj.S
+### Register Number:23011639
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
